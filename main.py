@@ -37,7 +37,7 @@ def post_neko_pic(TOKEN, CHANNEL):
             + colorama.Fore.WHITE
             + f"A connection error occurred at {error_time}. Check you internet! ;)\n"
         )
-        pass
+        
 
 
 def post_baka_pic(TOKEN, CHANNEL):
@@ -61,7 +61,7 @@ def post_baka_pic(TOKEN, CHANNEL):
             + colorama.Fore.WHITE
             + f"A connection error occurred at {error_time}. Check you internet! ;)\n"
         )
-        pass
+        
 
 
 def post_foxgirl_pic(TOKEN, CHANNEL):
@@ -87,7 +87,7 @@ def post_foxgirl_pic(TOKEN, CHANNEL):
             + colorama.Fore.WHITE
             + f"A connection error occurred at {error_time}. Check you internet! ;)\n"
         )
-        pass
+        
 
 
 def post_poke_pic(TOKEN, CHANNEL):
@@ -111,7 +111,7 @@ def post_poke_pic(TOKEN, CHANNEL):
             + colorama.Fore.WHITE
             + f"A connection error occurred at {error_time}. Check you internet! ;)\n"
         )
-        pass
+        
 
 
 def post_kiss_pic(TOKEN, CHANNEL):
@@ -135,7 +135,7 @@ def post_kiss_pic(TOKEN, CHANNEL):
             + colorama.Fore.WHITE
             + f"A connection error occurred at {error_time}. Check you internet! ;)\n"
         )
-        pass
+        
 
 
 # Sends a different image every 60 minutes (3600 seconds)
