@@ -8,6 +8,7 @@
 * ### Create a ".env" file in the directory
 * ### Write the token of the bot and the tag of the channel in the ".env" file
     [![dotenv.png](https://i.postimg.cc/76Kk5vvz/dotenv.png)](https://postimg.cc/Kk3VWH8c)
+    (the token above doesn't work)
 
 # Tags are published along with the pictures:
 ### #neko
